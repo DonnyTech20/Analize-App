@@ -1,0 +1,41 @@
+.App {
+  background-color: blue;
+ margin: auto;
+ width: auto;
+ line-height: 7
+}
+
+.myForm {
+  width: 100%;
+  background-color: #89e6bf
+  border-radius, 10px;
+  padding: 40px;
+}
+.formField {
+  width:auto;
+  padding: 14px 30px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solidcolor;
+  border-radius: 5px;
+  box-sizing: border-box;  
+}
+
+.myButton{
+  width:20%;
+widows: 100px;
+color: rgb(177, 53, 74)
+}
+
+.myList{
+  list-style: none;
+}
+
+.myListButton{
+  display: inline-block;
+  height:auto;
+  width: auto;
+  border-radius: 7px;
+  border: 1px solid #00b894;
+  margin: 3px 5px;
+}
